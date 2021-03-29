@@ -1,0 +1,78 @@
+Chemical Name,SMILES,Hydration Free Energy (kcal/mol),Train/Test
+acetylene·H2O,C#[C-].O,-67.9,test
+hydrogencyanide,[C-]#N.O,-64,train
+methanolate,C[O-].O,-80,train
+ethanolate,CC[O-].O,-78.5,train
+1-propanolate,CCC[O-].O,-75.8,train
+isopropanolate,CC(C)[O-].O,-76,test
+2-butanolate,CCC(C)[O-].O,-76.3,train
+t-butanolate,CC(C)(C)[O-].O,-72.1,train
+allyl alcoholate,[O-]CC=C.O,-75.1,test
+benzyl alcoholate,[O-]Cc1ccccc1.O,-75.4,train
+2-methoxyethanolate,COCC[O-].O,-77.9,test
+"""1 2-ethanediolate""",OCC[O-].O,-73.3,train
+OH–(H2O),[OH-].O,-86.9,train
+hydrogenperoxide,O[O-].O,-82.3,test
+hydroperoxylradical,[O-][O].O,-73.2,train
+hydrogensulfide,[SH-].O,-65.5,train
+fluoride·H2O,[F-].O,-85.5,train
+chloride·H2O,[Cl-].O,-67.5,train
+bromide·H2O,[Br-].O,-63.2,train
+"""2 2 2-trifluoroethanolate·H2O""",C(C(F)(F)F)[O-].O,-68,train
+acetylene,C#[C-],-76.5,train
+acetonitrile,[CH2-]C#N,-66.6,train
+cyanamide,C(#N)[NH-],-72.2,train
+aniline,c1ccc(cc1)[NH-],-62.9,test
+diphenylamine,c1ccc(cc1)[N-]c2ccccc2,-54.6,train
+cyanide,[C-]#N,-70.2,train
+formate,[O-]C=O,-76.2,train
+acetate,CC([O-])=O,-77.6,train
+propanoate,CCC([O-])=O,-76.2,test
+hexanoate,CCCCCC([O-])=O,-74.6,train
+acrylate,[O-]C(=O)C=C,-74,train
+pyruvate,CC(=O)C([O-])=O,-68.5,train
+benzoate,[O-]C(=O)c1ccccc1,-71.2,test
+methanolate,C[O-],-95,test
+ethanolate,CC[O-],-90.7,train
+1-propanolate,CCC[O-],-88.3,train
+isopropanolate,CC(C)[O-],-86.3,test
+2-butanolate,CCC(C)[O-],-84.2,train
+t-butanolate,CC(C)(C)[O-],-82.3,train
+allyl alcoholate,[O-]CC=C,-86.6,test
+benzyl alcoholate,[O-]Cc1ccccc1,-85.1,train
+2-methoxyethanol,COCC[O-],-89.4,train
+phenolate,[O-]c1ccccc1,-71.9,train
+2-methylphenolate,Cc1ccccc1[O-],-70.2,train
+3-methylphenolate,Cc1cccc([O-])c1,-71.1,train
+4-methylphenolate,Cc1ccc([O-])cc1,-72,test
+"""1 2-ethanediolate""",OCC[O-],-85.3,train
+3-hydroxyphenolate,Oc1cccc([O-])c1,-73.8,train
+4-hydroxyphenolate,Oc1ccc([O-])cc1,-77.6,train
+acetaldehyde,C[C-]=O,-76.5,train
+acetone,CC([O-])=C,-76.2,test
+3-pentanone,CC=C([O-])CC,-73.7,train
+hydroxide,[OH-],-104.7,train
+hydrogenperoxide,O[O-],-97.3,train
+hydroperoxyl radical,[O-][O],-83.3,train
+2-nitrophenol,c1ccc(c(c1)[N+](=O)[O-])[O-],-60.1,test
+3-nitrophenol,c1cc(cc(c1)[O-])[N+](=O)[O-],-61.9,train
+4-nitrophenol,c1cc(ccc1[N+](=O)[O-])[O-],-57.8,train
+nitromethane,C=[N+]([O-])[O-],-76.5,train
+4-nitroaniline,c1cc(ccc1[NH-])[N+](=O)[O-],-57.4,train
+acetamide,CC(=O)[NH-],-80.2,train
+methanethiol,C[S-],-73.8,train
+ethanethiol,CC[S-],-71.8,test
+1-propanethiol,CCC[S-],-70.5,train
+thiophenol,c1ccc(cc1)[S-],-63.4,train
+hydrogensulfide,[SH-],-72.1,train
+dimethylsulfoxide,C=S([O-])C,-67.7,test
+fluoride,[F-],-104.4,train
+chloride,[Cl-],-74.5,train
+bromide,[Br-],-68.3,test
+chloroform,[C-](Cl)(Cl)Cl,-54.1,train
+trifluoroacetate,[O-]C(=O)C(F)(F)F,-59.3,test
+chloroacetate,[O-]C(=O)CCl,-69.7,train
+dichloroacetate,[O-]C(=O)C(Cl)Cl,-62.3,train
+"""2 2 2-trifluoroethanolote""",C(C(F)(F)F)[O-],-77.5,test
+2-chlorophenolate,[O-]c1ccccc1Cl,-66.1,train
+4-chlorophenolate,[O-]c1ccc(Cl)cc1,-66,train

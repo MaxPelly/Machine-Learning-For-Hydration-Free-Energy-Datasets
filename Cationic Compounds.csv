@@ -1,0 +1,60 @@
+Chemical Name,SMILES,Hydration Free Energy (kcal/mol),Train/Test
+ammonia,[NH4+].O,-74.6,train
+methanol,C[OH2+].O,-76.6,train
+ethanol,CC[OH2+].O,-73.6,train
+dimethylether,C[OH+]C.O,-66.3,train
+diethylether,CC[OH+]CC.O,-62.2,train
+acetone,CC(=[OH+])C.O,-66.3,train
+acetophenone,CC(=[OH+])c1ccccc1.O,-55.7,train
+water Zundel ion,[OH3+].O,-87.8,train
+methylamine,C[NH3+],-76.4,train
+n-propylamine,CCC[NH3+],-71.5,train
+isopropylamine,CC(C)[NH3+],-69.6,test
+tert-butylamine,CC(C)(C)[NH3+],-67.3,train
+cyclohexanamine,C1CCC(CC1)[NH3+],-68.7,test
+allylamine,C=CC[NH3+],-72,test
+dimethylamine,C[NH2+]C,-68.6,train
+diethylamine,CC[NH2+]CC,-63.4,train
+di-n-propylamine,CCC[NH2+]CCC,-60.5,test
+diallylamine,C=CC[NH2+]CC=C,-61.6,train
+trimethylamine,C[NH+](C)C,-61.1,test
+triethylamine,CC[NH+](CC)CC,-54.6,test
+tri-n-propylamine,CCC[NH+](CCC)CCC,-50.9,train
+aniline,c1ccc(cc1)[NH3+],-72.4,train
+2-methylaniline,Cc1ccccc1[NH3+],-70.3,test
+3-methylaniline,Cc1cc(ccc1)[NH3+],-69.6,train
+4-methylaniline,Cc1ccc(cc1)[NH3+],-69.8,train
+3-aminoaniline,c1cc(cc(c1)N)[NH3+],-65.8,train
+N-methylaniline,C[NH2+]c1ccccc1,-62.6,train
+N-ethylaniline,CC[NH2+]c1ccccc1,-62.2,train
+N N-dimethylaniline,C[NH+](C)c1ccccc1,-57.2,train
+4-methyl-N N-dimethylaniline,Cc1ccc(cc1)[NH+](C)C,-55.9,test
+N N-diethylaniline,CC[NH+](CC)c1ccccc1,-54,test
+1-aminonaphthalene,c1ccc2c(c1)cccc2[NH3+],-67.4,train
+aziridine,C1C[NH2+]1,-70.9,train
+azetidine,C1C[NH2+]C1,-67.7,train
+pyrrolidine,C1CC[NH2+]C1,-66,train
+piperidine,C1CC[NH2+]CC1,-64.2,train
+azacycloheptane,C1CCC[NH2+]CC1,-63.3,train
+pyrrole,[nH2+]1cccc1,-61.4,train
+pyridine,c1cc[nH+]cc1,-61.1,train
+quinoline,c1ccc2[nH+]cccc2c1,-56,test
+piperazine,C1C[NH2+]CCN1,-66,test
+acetonitrile,CC#[NH+],-75.3,train
+ammonia,[NH4+],-85.2,train
+hydrazine,N[NH3+],-84.6,train
+methanol,C[OH2+],-93,train
+ethanol,CC[OH2+],-88.4,train
+dimethylether,C[OH+]C,-79.7,test
+diethylether,CC[OH+]CC,-71.5,train
+acetone,CC(=[OH+])C,-77.1,test
+acetophenone,CC(=[OH+])c1ccccc1,-64.5,train
+oxonium,[OH3+],-110.3,train
+4-methoxyaniline,COc1ccc(cc1)[NH3+],-71.2,train
+4-nitroaniline,c1cc(ccc1[NH3+])[N+](=O)[O-],-75.9,test
+morpholine,C1COCC[NH2+]1,-69.6,train
+acetamide,CC(=O)[NH3+],-73.9,test
+benzamide,c1ccc(cc1)C(=O)[NH3+],-67.2,train
+dimethylsulfide,C[SH+]C,-64.5,train
+3-chloroaniline,c1cc(cc(c1)Cl)[NH3+],-74.7,train
+4-chloroaniline,c1cc(ccc1[NH3+])Cl,-74.1,train
