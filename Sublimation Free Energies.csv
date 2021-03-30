@@ -1,0 +1,158 @@
+Chemical Name,SMILES,Sublimation free energy (kJ/mol),Train/Test
+(±)-Ibuprofen,CC(C)Cc1ccc(cc1)C(C)C(=O)O,44.2,train
+"1-([1,1-biphenyl]-4-yl)-Naphthalene",c1ccc(cc1)c2ccc(cc2)c3cccc4ccccc34,65.85,train
+"1,2,3,4-tetraphenylnaphthalene",c15ccccc1c(c2ccccc2)c(c3ccccc3)c(c4ccccc4)c5c6ccccc6,80.59,train
+"1,2,3-Triphenylbenzene",c1cc(ccc1)c3c(cccc3c2ccccc2)c4ccccc4,61,train
+"1,2-Diphenylethane",c1ccc(cc1)CCc2ccccc2,30.2,test
+"1,3,5-trinitrobenzene (TNB)",c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],72.5,train
+"1,3,5-Triphenylbenzene",c1cc(ccc1)c2cc(cc(c2)c3ccccc3)c4ccccc4,72.1,train
+"1,4-diphenylnaphthalene",c2cc(c1ccccc1c2c3ccccc3)c4ccccc4,70.78,train
+"1,8-di([1,1-biphenyl]-4-yl)naphthalene",c1ccc(cc1)c2ccc(cc2)c3cccc4cccc(c5ccc(cc5)c6ccccc6)c34,94.96,train
+"1,8-diphenylnaphthalene",c3cc(c2c(c1ccccc1)cccc2c3)c4ccccc4,57.56,train
+"1-[(5-Phenylamino)-1,2,4-Thiadiazol-3-yl]-Propan-2-ol",CC(O)Cc1nsc(Nc2ccccc2)n1,58.3,train
+"1-[(5-p-Tolylamino)-1,2,4-thiadiazol-3-yl]-propan-2-ol",CC(O)Cc1nsc(Nc2ccc(C)cc2)n1,62.5,train
+"1-[5-(4-Ethoxy-phenylamino)-1,2,4-thiadiazol-3-yl]-propan-2-ol",CC(O)Cc1nsc(Nc2ccc(OCC)cc2)n1,60.2,train
+1-naphthol,Oc2cccc1ccccc12,35.3,train
+1-Nitronaphthalene,[O-][N+](=O)c2cccc1ccccc12,36.4,test
+"2-([1,1-biphenyl]-4-yl)naphthalene",c1ccc(cc1)c2ccc(cc2)c3ccc4ccccc4c3,72.22,train
+"2,2-Dimethylglutaric acid",O=C(O)CCC(C(=O)O)(C)C,50.2,train
+"2,2-Dimethylsuccinic acid",O=C(O)CC(C(=O)O)(C)C,50.8,train
+"2,4,6-N-tetranitro-N-methylaniline (Tetryl)",CN(c1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],87.3,test
+"2,4,6-trinitroaniline (TNA)",c1c(cc(c(c1[N+](=O)[O-])N)[N+](=O)[O-])[N+](=O)[O-],83.3,train
+"2,4,6-trinitro-m-cresol (TNC)",O=[N+]([O-])c1cc(c(c([N+]([O-])=O)c1O)C)[N+]([O-])=O,73.6,train
+"2,4,6-trinitromesitylene (TNM)",Cc1c(c(c(c(c1[N+](=O)[O-])C)[N+](=O)[O-])C)[N+](=O)[O-],68.6,train
+"2,4,6-trinitro-m-phenylene diamine (DATB)",c1c(c(c(c(c1[N+](=O)[O-])N)[N+](=O)[O-])N)[N+](=O)[O-],99.2,train
+"2,4,6-trinitro-m-xylene (TNX)",Cc1c(cc(c(c1[N+](=O)[O-])C)[N+](=O)[O-])[N+](=O)[O-],80,train
+"2,4,6-trinitrophenol (picric acid)",O=[N+]([O-])c1cc(cc([N+]([O-])=O)c1O)[N+]([O-])=O,75.6,train
+"2,4,6-trinitroresorcinol (styphnic acid, TNR)",c1c(c(c(c(c1[N+](=O)[O-])O)[N+](=O)[O-])O)[N+](=O)[O-],80.6,test
+"2,4,6-trinitrotoluene (TNT)",Cc1c(cc(cc1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],69.6,train
+"2,4-dichlorophenoxy acetic acid",Clc1cc(Cl)ccc1OCC(=O)O,51.7,train
+"2,4-dichlorophenoxy butyric acid",Clc1cc(Cl)ccc1OC(C(=O)O)CC,50.39,train
+"2,4-dichlorophenoxy propionic acid",Clc1cc(Cl)ccc1OC(C(=O)O)C,49.63,train
+"2,4-Dinitrobenzoic acid",O=[N+]([O-])c1cc(ccc1C(=O)O)[N+]([O-])=O,61,train
+"2,5-Dichloro-4-nitroaniline",Clc1c(cc(Cl)c(N)c1)[N+]([O-])=O,51.7,test
+"2,6-Dichloro-4-nitroaniline",Clc1cc(cc(Cl)c1N)[N+]([O-])=O,48.7,train
+2-acetaminophen,O=C(Nc1ccccc1O)C,52.8,train
+2-Bromobenzoic acid,O=C(O)c1ccccc1Br,44.1,test
+2-Chlorobenzoic acid,O=C(O)c1ccccc1Cl,41.5,test
+2-Ethylanthracene,c3ccc2cc1ccc(cc1cc2c3)CC,47.1,test
+2-Fluorobenzoic acid,O=C(O)c1ccccc1F,35.5,train
+2-Iodobenzoic acid,O=C(O)c1ccccc1I,47.8,train
+2-methoxybenzoic acid,O=C(O)c1ccccc1OC,43.7,train
+2-methyl-3-nitrobenzoic acid,O=[N+]([O-])c1cccc(C(=O)O)c1C,51.8,train
+2-methyl-6-nitrobenzoic acid,O=C(O)c1c(cccc1C)[N+]([O-])=O,52,test
+2-Methylglutaric acid,O=C(O)CCC(C(=O)O)C,49.2,train
+2-phenylnaphthalene,c1cc(cc2ccccc12)c3ccccc3,44.74,test
+2-Thiopheneacetamide,O=C(N)Cc1sccc1,46.1,test
+2-Thiophenecarboxamide,O=C(N)c1sccc1,46.1,test
+3-(2-methoxyphenyl) propionic acid,O=C(O)CCc1ccccc1OC,44.8,train
+"3-(3,4-dimethoxyphenyl) propionic acid",O=C(O)CCc1cc(OC)c(OC)cc1,57,train
+3-(4-methoxyphenyl) propionic acid,COc1ccc(cc1)CCC(=O)O,48.6,train
+"3,4-Dinitrobenzoic acid",O=[N+]([O-])c1cc(ccc1[N+]([O-])=O)C(=O)O,59,train
+3-acetaminophen,CC(=O)Nc1cccc(c1)O,56.4,test
+3-Bromobenzoic acid,O=C(O)c1cc(Br)ccc1,43.5,train
+3-Chlorobenzoic acid,O=C(O)c1cc(Cl)ccc1,41.1,train
+3-Fluorobenzoic acid,O=C(O)c1cc(F)ccc1,34.4,train
+3-hydroxybenzoic acid,O=C(O)c1cc(O)ccc1,50.6,train
+3-Iodobenzoic acid,O=C(O)c1cc(I)ccc1,48.5,train
+3-methoxybenzoic acid,O=C(O)c1cc(OC)ccc1,41.8,test
+3-methyl-2-nitrobenzoic acid,Cc1cccc(c1[N+](=O)[O-])C(=O)O,56.4,test
+3-methyl-4-nitrobenzoic acid,Cc1cc(ccc1[N+]([O-])=O)C(O)=O,54.3,test
+3-Phenylpropiolic acid,O=C(C#Cc1ccccc1)O,42.1,train
+3-phenylpropionic acid,OC(=O)CCc1ccccc1,35.9,test
+4-(acetylamino)benzoic acid,CC(=O)Nc1ccc(cc1)C(=O)O,76.4,train
+4-(dimethylamino)benzoic acid,O=C(O)c1ccc(N(C)C)cc1,56.8,train
+4-(methylamino)benzoic acid (cr I),O=C(O)c1ccc(NC)cc1,55.3,test
+4-acetoxybenzoic acid (cr II),O=C(Oc1ccc(cc1)C(=O)O)C,51.5,test
+4-aminobenzoic acid,O=C(O)c1ccc(N)cc1,53.7,train
+"4-amino-N-(2,3-dichlorophenyl)-benzene-sulfonamide",c1cc(c(c(c1)Cl)Cl)NS(=O)(=O)c2ccc(cc2)N,61.7,train
+"4-amino-N-(2,5-dichlorophenyl)-benzene-sulfonamide",Clc2ccc(Cl)cc2NS(=O)(=O)c1ccc(N)cc1,75.7,train
+"4-amino-N-(3,4-dichlorophenyl)-benzene-sulfonamide",Clc2ccc(NS(=O)(=O)c1ccc(N)cc1)cc2Cl,85.8,test
+4-amino-N-(4-chlorophenyl)-benzene-sulfonamide,Clc2ccc(NS(=O)(=O)c1ccc(N)cc1)cc2,74,train
+4-amino-N-(4-cyanophenyl)benzenesulfonamide,O=S(=O)(Nc1ccc(cc1)C#N)c2ccc(N)cc2,88,train
+4-amino-N-(4-ethylphenyl)benzenesulfonamide,O=S(=O)(Nc1ccc(cc1)CC)c2ccc(N)cc2,74.2,train
+4-Amino-N-(4-methoxyphenyl)benzenesulfonamide,O=S(=O)(Nc1ccc(OC)cc1)c2ccc(N)cc2,72.4,test
+4-Amino-N-(4-nitrophenyl)benzenesulfonamide,Nc1ccc(cc1)[S](=O)(=O)Nc2ccc(cc2)[N+]([O-])=O,78,train
+4-Amino-N-(5-chloro-2-methylphenyl)benzenesulfonamide,Cc1ccc(cc1NS(=O)(=O)c2ccc(cc2)N)Cl,68.5,train
+4-Bromoacetanilide,Brc1ccc(NC(=O)C)cc1,49,test
+4-Bromobenzoic acid,O=C(O)c1ccc(Br)cc1,49,train
+"4-Butylbenzoic acid (cr, II)",O=C(O)c1ccc(cc1)CCCC,44.5,test
+4-chloro-3-nitroaniline,O=[N+]([O-])c1cc(ccc1Cl)N,44,train
+4-Chlorobenzoic acid,O=C(O)c1ccc(Cl)cc1,45.8,train
+4-cyanobenzoic acid,N#Cc1ccc(C(=O)O)cc1,50.7,test
+4-Ethylbenzoic acid,O=C(O)c1ccc(cc1)CC,39.6,train
+4-Fluorobenzoic acid,O=C(O)c1ccc(F)cc1,37,train
+"4-Heptylbenzoic acid (cr, II)",O=C(O)c1ccc(cc1)CCCCCCC,53.9,train
+4-Hexylbenzoic acid,O=C(O)c1ccc(cc1)CCCCCC,50.5,train
+4-Hydroxybenzamide,O=C(c1ccc(O)cc1)N,58.9,train
+4-hydroxybenzoic acid,c1cc(ccc1C(=O)O)O,56.1,train
+4-Iodobenzoic acid,O=C(O)c1ccc(I)cc1,52.8,test
+4-methoxybenzoic acid,COc1ccc(cc1)C(O)=O,48,train
+4-methoxycarbonylbenzoic acid,O=C(OC)c1ccc(C(=O)O)cc1,55.4,train
+4-methyl-3-nitrobenzoic acid,O=[N+]([O-])c1cc(ccc1C)C(=O)O,53.3,train
+4-Methylbenzoic acid,Cc1ccc(cc1)C(=O)O,40.1,train
+4-nitrobenzoic acid,O=[N+]([O-])c1ccc(C(=O)O)cc1,54,train
+"4-Octylbenzoic acid (cr, II)",O=C(O)c1ccc(cc1)CCCCCCCC,56.4,train
+4-Pentylbenzoic acid,O=C(O)c1ccc(cc1)CCCCC,47.6,train
+"4-Propylbenzoic acid (cr, II)",O=C(O)c1ccc(cc1)CCC,43.8,train
+5-chloro-2-nitroaniline,O=[N+]([O-])c1c(cc(Cl)cc1)N,41.2,train
+5-methyl-2-nitrobenzoic acid,O=[N+]([O-])c1c(cc(cc1)C)C(=O)O,51.6,test
+"9,10-Dimethylanthracene",c23c(c1ccccc1c(c2cccc3)C)C,52.1,train
+9-Methylanthracene,Cc1c2ccccc2cc3c1cccc3,42.2,test
+9-Nitroanthracene,[O-][N+](=O)c2c3c(cc1c2cccc1)cccc3,52.5,test
+Acetanilide,O=C(Nc1ccccc1)C,40.5,train
+"ametryn (N-ethyl-N¢-(1-methylethyl)-6-(methylthio)-2,4-diamine-1,3,5-triazine)",S(c1nc(nc(n1)NC(C)C)NCC)C,48.3,train
+Anthracene,c1ccc2cc3ccccc3cc2c1,45.6,test
+aspirin (acetylsalicylic acid),CC(=O)Oc1ccccc1C(=O)O,43.6,train
+atenolol (2-{4-[2-Hydroxy-3-(isopropylamino)propoxy]phenyl}acetamide),CC(C)NCC(COc1ccc(cc1)CC(=O)N)O,71.1,train
+Benzanthrone,O=C3c4c(c2cccc1cccc3c12)cccc4,62.7,train
+Benzil (Benzyl),c1ccc(cc1)C(=O)C(=O)c2ccccc2,42.3,test
+Benzoic acid,c1ccc(cc1)C(=O)O,33.9,train
+Benzophenone,O=C(c1ccccc1)c2ccccc2,34.6,test
+Cyclotrimethylenetrinitramine (RDX),C1N(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],88.5,train
+Diclofenac Form 2,c1ccc(c(c1)CC(=O)O)Nc2c(cccc2Cl)Cl,49.3,test
+Diflunisal,O=C(O)c1cc(ccc1O)c2ccc(F)cc2F,57.6,test
+dimethyl isophthalate,O=C(OC)c1cccc(C(=O)OC)c1,33.9,train
+dimethyl terephthalate,O=C(OC)c1ccc(cc1)C(=O)OC,39.9,test
+Diphenylamine,c1ccc(cc1)Nc2ccccc2,35.9,train
+Diphenylmethane,c1c(cccc1)Cc2ccccc2,27,train
+Fenbufen,O=C(O)CCC(=O)c2ccc(c1ccccc1)cc2,74,train
+Flufenamic acid,FC(F)(F)c1cc(ccc1)Nc2ccccc2C(=O)O,54.3,train
+flurbiprofen,Fc2cc(ccc2c1ccccc1)C(C(=O)O)C,53.3,train
+Hexachlorobenzene,c1(c(c(c(c(c1Cl)Cl)Cl)Cl)Cl)Cl,47,train
+Imidazolidin-2-one,C1CNC(=O)N1,42.6,train
+isophthalic acid,O=C(O)c1cccc(C(=O)O)c1,73.5,train
+Ketoprofen,CC(c1cccc(c1)C(=O)c2ccccc2)C(=O)O,57,train
+Lindane,Cl[C@H]1[C@H](Cl)[C@@H](Cl)[C@@H](Cl)[C@H](Cl)[C@H]1Cl,50,train
+Mefenamic acid,O=C(O)c2c(Nc1cccc(c1C)C)cccc2,59.2,train
+Methylsuccinic acid,O=C(O)CC(C(=O)O)C,48.6,train
+monomethyl isophthalate,O=C(OC)c1cccc(C(=O)O)c1,54.6,test
+monomethyl phthalate,O=C(OC)c1ccccc1C(=O)O,46.9,train
+M-Terphenyl,c1cc(ccc1)c2cccc(c2)c3ccccc3,49.1,train
+N - phenyl - anthranilic acid (N-Phenyl 2-Aminobenzoic Acid),O=C(O)c2ccccc2Nc1ccccc1,58.9,test
+"N-(2,3-dichlorophenyl)-benzene-sulfonamide",Clc2c(NS(=O)(=O)c1ccccc1)cccc2Cl,54.1,train
+N-(2-chlorophenyl)-benzene-sulfonamide,Clc2ccccc2NS(=O)(=O)c1ccccc1,50.4,train
+N-(4-chlorophenyl)-benzene-sulfonamide,Clc2ccc(NS(=O)(=O)c1ccccc1)cc2,49.9,train
+N-(4-nitrophenyl)-benzene-Sulfonamide,O=S(=O)(Nc1ccc(cc1)[N+]([O-])=O)c2ccccc2,67.7,test
+"N,N-Trimethyleneurea",O=C1NCCCN1,53.7,train
+Naphthalene,c1ccc2ccccc2c1,22.58,train
+naproxen,C[C@@H](c1ccc2cc(ccc2c1)OC)C(=O)O,58.5,test
+Niflumic acid,FC(F)(F)c1cc(ccc1)Nc2ncccc2C(=O)O,61.3,train
+Nitroguanidine (2-Nitroguanidine),C(=N)(N)N[N+](=O)[O-],107.9,train
+N-phenylbenzenesulfonamide,O=S(=O)(Nc1ccccc1)c2ccccc2,53.4,train
+O-Terphenyl,c1cc(ccc1)c3ccccc3c2ccccc2,40.2,train
+Paracetamol,CC(=O)Nc1ccc(cc1)O,60,test
+Pentaerythritoltetranitrate (PETN),C(C(CO[N+](=O)[O-])(CO[N+](=O)[O-])CO[N+](=O)[O-])O[N+](=O)[O-],86.2,train
+Phenacetin,O=C(Nc1ccc(OCC)cc1)C,52.3,train
+Phenanthrene,c1ccc2c(c1)ccc3c2cccc3,38.2,train
+phthalic acid,c1ccc(c(c1)C(=O)O)C(=O)O,69.2,train
+Pindolol,CC(C)NCC(O)COc1cccc2[nH]ccc12,68,train
+p-Terphenyl,c1cc(ccc1)c2ccc(cc2)c3ccccc3,58.7,train
+salicylic acid (2-hydroxybenzoic acid),c1ccc(c(c1)C(=O)O)O,38.5,train
+"simetryn (N,N¢-diethyl-6-(methylthio)-2,4-diamine-1,3,5-triazine)",S(c1nc(nc(n1)NCC)NCC)C,44.59,train
+Succinic acid,C(CC(=O)O)C(=O)O,54,train
+Sym-cyclotetramethylene-tetramitramine (HMX),C1N(CN(CN(CN1[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-])[N+](=O)[O-],115.5,train
+"terbutryn (N-(1,1-dimethylethyl)-N¢-ethyl-6-(methylthio)-2,4-diamine-1,3,5-triazine)",S(c1nc(nc(n1)NC(C)(C)C)NCC)C,48.23,train
+terephthalic acid,c1cc(ccc1C(=O)O)C(=O)O,81.5,train
+Tolfenamic acid (form 1),Clc2cccc(Nc1ccccc1C(=O)O)c2C,53.9,train
+Triphenyl methane,c1c(cccc1)C(c2ccccc2)c3ccccc3,44.3,train
